@@ -1,4 +1,6 @@
 # Guess-My-Number
+![GuessNum](https://github.com/selmaGharbi/Guess-My-Number/assets/167712525/744901c4-cfc3-4043-94e1-ac14323c24bc)
+
 A simple game to guess the number
 
 This was my very first project while learning JavaScript.
